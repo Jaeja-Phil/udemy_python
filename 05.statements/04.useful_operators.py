@@ -53,4 +53,4 @@ print(randint(0,100))
 print(randint(0,100))
 
 result = input('whats ur name')
-print(result)
+print(result) # result's type is str
