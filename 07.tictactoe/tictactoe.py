@@ -76,4 +76,4 @@ while game_on:
   display_game(game_list)
 
   game_on = gameon_choice()
-  
+
